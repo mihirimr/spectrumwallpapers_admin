@@ -1,6 +1,6 @@
 {
-    "name": "wallpy_admin",
-    "short_name": "wallpy_admin",
+    "name": "wallpaper_admin_web",
+    "short_name": "wallpaper_admin_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
